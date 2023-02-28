@@ -1,4 +1,4 @@
-# sql_todo
+# SQLite todo
 
 A new Flutter project.
 
